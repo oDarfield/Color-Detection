@@ -7,3 +7,5 @@ For this program to work, the numpy, pandas, and opencv pip-installable librarie
 The program will work for any image file you give, provided you give the correct directory. When you open the image and double-click anywhere on it, the program will identify the exact color using a csv sheet downloaded for reference. An image file is also downloaded as an example. The program will give the RGB values of the exact color along with the name of that color.
 
 This can be done any number of times until you hit the escape key, exiting the program.
+
+**Note:** Please ignore my ``stupid.rst`` file. It is simply something I like to keep and I am running out of places to keep where I won't forget about it. It is private and I will be very grateful if it stays private.
